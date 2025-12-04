@@ -44,7 +44,6 @@ Data-Warehouse-Financial-Analytics-Project
 │── industry_sector_mapping.csv
 
 
-
 **Notebooks**
 - **Transaction_Management_Financial_Data.ipynb**  
   Demonstrates update operations, backup creation, rollback/commit, and transactional control.

@@ -1,0 +1,53 @@
+US_E3_INDUSTRY_CODE,US_E3_INDUSTRY_NAME,SECTOR
+1,Mining & Metals,Basic Materials
+2,Gold,Basic Materials
+3,Forest Products & Paper,Basic Materials
+4,Chemicals,Basic Materials
+5,Energy Reserves & Production,Energy
+6,Oil Refining,Energy
+7,Oil Services,Energy
+8,Food & Beverages,Consumer Noncyclicals
+9,Alcohol,Consumer Noncyclicals
+10,Tobacco,Consumer Noncyclicals
+11,Home Products,Consumer Noncyclicals
+12,Grocery Stores,Consumer Noncyclicals
+13,Consumer Durables,Consumer Cyclicals
+14,Motor Vehicles & Parts,Consumer Cyclicals
+15,Apparel & Textiles,Consumer Cyclicals
+16,Clothing Stores,Consumer Cyclicals
+17,Specialty Retail,Consumer Cyclicals
+18,Department Stores,Consumer Cyclicals
+19,Construction & Real Property,Consumer Cyclicals
+20,Publishing,Consumer Services
+21,Media,Consumer Services
+22,Hotels,Consumer Services
+23,Restaurants,Consumer Services
+24,Entertainment,Consumer Services
+25,Leisure,Consumer Services
+26,Environmental Services,Industrials
+27,Heavy Electrical Equipment,Industrials
+28,Heavy Machinery,Industrials
+29,Industrial Parts,Industrials
+30,Electrical Utilities,Utility
+31,Gas Utilities,Utility
+32,Railroads,Transport
+33,Airlines,Transport
+34,"Trucking, Shipping, Air Freight",Transport
+35,Medical Providers & Services,Health Care
+36,Medical Products,Health Care
+37,Drugs,Health Care
+38,Electronic Equipment,Technology
+39,Semiconductors,Technology
+40,Computer Hardware & Office Equipment,Technology
+41,Computer Software,Technology
+42,Defense & Aerospace,Technology
+43,Telephones,Telecommunications
+44,Wireless Telecommunications,Telecommunications
+45,Information Services,Commercial Services
+46,Industrial Services,Commercial Services
+47,Life & Health Insurance,Financial
+48,Property & Casualty Insurance,Financial
+49,Banks,Financial
+50,Thrifts,Financial
+51,Securities & Asset Management,Financial
+52,Financial Services,Financial

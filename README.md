@@ -35,3 +35,76 @@ It includes end-to-end processing: loading raw datasets, cleaning, joining, runn
 ---
 
 ## Files Included
+
+Data-Warehouse-Financial-Analytics-Project
+│── Transaction_Management_Financial_Data.ipynb
+│── Financial_Sector_Analytics_and_Joins.ipynb
+│── financial_data_2007.csv
+│── financial_data_2008.csv
+│── industry_sector_mapping.csv
+
+
+
+**Notebooks**
+- **Transaction_Management_Financial_Data.ipynb**  
+  Demonstrates update operations, backup creation, rollback/commit, and transactional control.
+
+- **Financial_Sector_Analytics_and_Joins.ipynb**  
+  Performs joins, survival analysis of companies, and sector-level beta comparison across 2007–2008.
+
+**Datasets**
+- `financial_data_2007.csv` – historical financial indicators  
+- `financial_data_2008.csv` – updated year dataset  
+- `industry_sector_mapping.csv` – maps industries to sectors
+
+---
+
+## Key Insights & Results
+### ✔ Company Survival Analysis (2007 → 2008)
+Identified:
+- companies that survived both years
+- companies that disappeared in 2008
+
+### ✔ Sector-Level Risk Comparison
+Calculated **average beta per sector** for both years to observe risk shifts:
+- Some sectors saw significant increases during 2008 economic volatility.
+- Delivered meaningful risk insights across 13 sectors.
+
+### ✔ Transaction Demonstration
+Performed a full update cycle:
+- backed up original rows  
+- updated beta values  
+- compared before vs after  
+- executed rollback to restore the data  
+- performed safe COMMIT demonstration  
+
+This simulates **real financial system workflows**.
+
+---
+
+## Tech Stack
+- **Python (Pandas, NumPy)**
+- **Jupyter Notebook**
+- **SQL-style operations using Pandas**
+- **Data Engineering concepts (Joins, Transactions, Backups)**
+
+---
+
+## How to Run
+1. Open the notebooks in Jupyter or GitHub Codespaces.
+2. Ensure the CSV datasets are in the same directory.
+3. Run the cells sequentially to reproduce the data transformations and analytics.
+
+---
+
+## Author
+**Hely Shah**  
+*Master of Science in Computer Science*  
+Focused on Data Engineering, Machine Learning, and Financial Analytics.
+
+---
+
+## Notes
+This project demonstrates practical data warehouse logic and financial dataset handling in a professional, industry-relevant format.  
+Suitable for showcasing data analyst & data engineering capabilities on resumes and interviews.
+
